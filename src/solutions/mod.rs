@@ -5,3 +5,6 @@ mod two_sum;
 
 // 412. Fizz Buzz
 mod fizzbuzz;
+
+// 1929. Concatenation of Array
+mod concatenation_of_array;
