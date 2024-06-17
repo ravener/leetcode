@@ -12,5 +12,8 @@ mod defanging_an_ip_address;
 // 1929. Concatenation of Array
 mod concatenation_of_array;
 
+// 2235. Add Two Integers
+mod add_two_integers;
+
 // 2469. Convert the Temperature
 mod convert_the_temperature;
