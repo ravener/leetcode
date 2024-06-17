@@ -8,3 +8,6 @@ mod fizzbuzz;
 
 // 1929. Concatenation of Array
 mod concatenation_of_array;
+
+// 2469. Convert the Temperature
+mod convert_the_temperature;
