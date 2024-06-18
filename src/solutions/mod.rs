@@ -3,6 +3,9 @@
 // 1. Two Sum
 mod two_sum;
 
+// 28. Find the Index of the First Occurrence in a String
+mod find_the_index_of_the_first_occurrence_in_a_string;
+
 // 412. Fizz Buzz
 mod fizzbuzz;
 
